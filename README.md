@@ -10,7 +10,7 @@ After selection, you'll advance and fight the boss. Be careful, for each attack 
 
 #### Implementation
 
-The main contract _Game.sol_ inherits from ERC721 OpenZeppelin implementation.
+The game is handled by contract _Game.sol_ which inherits from ERC721 OpenZeppelin implementation.
 
 
 
